@@ -3,5 +3,5 @@
 
 ## HELPFUL RESOURCES
 
-<https://github.com/StephenGrider/EthereumCasts>
+
 
