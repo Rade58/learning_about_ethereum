@@ -14,9 +14,9 @@ pragma solidity ^0.8.7;
 contract Inbox {
     string public message;
     
-    function Inbox(string initilMessage) public {
+    function Inbox(string initialMessage) public {
         
-        message = initilMessage;
+        message = initialMessage;
     } 
     
     
