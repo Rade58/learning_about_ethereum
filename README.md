@@ -8,6 +8,14 @@ VERY GOOD (OUTADED BUT GREAT, WORTH CHECKING OUT)
 
 <https://github.com/owanhunte/ethereum-solidity-course-updated-code>
 
+THIS ONE IS GREAT TOO:
+
+<https://www.youtube.com/watch?v=a0osIaAOFSE>
+
+<https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13>
+
+<https://github.com/dabit3/full-stack-ethereum>
+
 # THINGS WE DOING AFTER INITIAL SETUP OF CREATING A WALLET AND SAVING PASSPHRASE (WHICH WE DID WITH `MetaMask`)
 
 SELECT `Rinkeby` TEST NETWORK, BECAUSE WE ARE NOT GOING TO SPEND ANY REAL MONEY; WE WANT TO INTERACT WITH THAT NETWORK WHICH `Rinkeby` IS, MAYBE WE WILL USE ANOTHER NETWORKS TOO
