@@ -15,23 +15,18 @@ MY FIRST SOLIDITY SMART CONTRACT
 ```ts
 pragma solidity ^0.8.7;
 
-contract Inbox {
-    string public message;
-    
-    function Inbox(string initialMessage) public {
-        
-        message = initialMessage;
-    } 
-    
-    
-    function setMessage(string new Message) public {
-        messge = newMessage;
+// THIS IS CLASS
+contract Storage {
+    uint256 number;
+
+    // SETTER
+    function store(uint256 num) public {
+        number = num;
     }
-    
-    function getMessage() public view returns (string) {
-        return message;
+
+    // GETTER
+    function getMessage() public view returns (uint256) {
+        return number;
     }
-    
-    
 }
 ```
